@@ -14,4 +14,6 @@ This note book illustrates the creation of a word cloud with data form [What Is 
     * type *nltk.download('stopwords')* to download stopwords
     * type *exit()* to leave python console
   * type *pip install wordcloud* to install wordcloud library
+* Now you are ready to leave the Terminal and switch over to the Notebook
+  * run the complete notebook from start using __🢒🢒__ or run individual blocks with __🢒__
   
